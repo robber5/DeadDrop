@@ -1,9 +1,0 @@
-[submodule "hw/secworks/src/sha256"]
-	path = hw/secworks/src/sha256
-	url = git@github.com:secworks/sha256.git
-[submodule "hw/secworks/src/modexp"]
-	path = hw/secworks/src/modexp
-	url = git@github.com:secworks/modexp.git
-[submodule "hw/secworks/src/aes"]
-	path = hw/secworks/src/aes
-	url = git@github.com:secworks/aes.git

@@ -1,3 +1,3 @@
 #Hardware for DeadDrop
 
-See git@github.com:theocean154/eecs4340.git
+See https://github.com/theocean154/eecs4340/tree/dir_tb/proj 

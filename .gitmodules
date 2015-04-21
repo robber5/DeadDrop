@@ -1,0 +1,9 @@
+[submodule "hw/src/secworks/aes"]
+	path = hw/src/secworks/aes
+	url = git@github.com:secworks/aes.git
+[submodule "hw/src/secworks/sha256"]
+	path = hw/src/secworks/sha256
+	url = git@github.com:secworks/sha256.git
+[submodule "hw/src/secworks/modexp"]
+	path = hw/src/secworks/modexp
+	url = git@github.com:secworks/modexp.git
